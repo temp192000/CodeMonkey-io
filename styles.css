@@ -85,6 +85,7 @@ body{
 
 .hero{
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .hero .hero-img{
@@ -121,6 +122,11 @@ footer{
     padding: 2rem 1rem;
     color: white;
     border-top-right-radius: 1rem;
+}
+
+footer .footer-header{
+    font-weight: bold;
+    font-size: large;
 }
 
 footer .link{
